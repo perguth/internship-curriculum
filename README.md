@@ -1,5 +1,5 @@
 # Internship Curriculum
-> Learning journey of our interns at **[🔬Thingylabs](https://thingylabs.business.site/)**.
+> Learning journey of our interns at **[🔬Thingylabs](https://thingylabs.io)**.
 
 ![](happy-intern.png)
 
